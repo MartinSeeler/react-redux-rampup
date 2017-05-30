@@ -1,6 +1,7 @@
 {
   "name": "react-redux-rampup",
   "version": "0.1.0",
+  "private": true,
   "description": "An opinionated starter template for React / Redux applications.",
   "main": "index.js",
   "scripts": {
