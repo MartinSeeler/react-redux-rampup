@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-rampup",
+  "version": "0.1.0",
+  "description": "An opinionated starter template for React / Redux applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MartinSeeler@github.com/MartinSeeler/react-redux-rampup.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Martin Seeler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinSeeler/react-redux-rampup/issues"
+  },
+  "homepage": "https://github.com/MartinSeeler/react-redux-rampup#readme"
+}
